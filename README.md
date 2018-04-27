@@ -4,7 +4,7 @@ A micro-blog running on mongodb and using Flask.
 
 ### Example routes
 
-1. /   ==> home 
+1. /  
 2. /login
 3. /register
 4. /blogs
